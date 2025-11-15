@@ -312,3 +312,147 @@ div.location div.container div.left-side p
     margin-block: 20px;
 }
 
+
+/* Our baking */
+
+div.our-baking div.container div.top 
+{
+    text-align: center;
+    margin-top: 90px;
+}
+div.our-baking div.container div.top h2
+{
+    font-family: "Alegreya", serif;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 41px;
+    color: rgb(48, 48, 48);
+    margin-bottom: 20px;
+}
+div.our-baking div.container div.top p
+{
+    font-family: "Alegreya Sans", sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 32px;
+    color:rgb(136, 136, 136);
+}
+
+div.our-baking div.container div.bottom 
+{
+    margin-block: 60px;
+    text-align: center;
+}
+
+div.our-baking div.container div.bottom .slide
+{
+    width: 31%;
+    float: left;
+}
+
+div.our-baking div.container div.bottom  img
+{
+    width: 100%;
+}
+
+div.our-baking div.container div.bottom .slide h3
+{
+    margin-block: 25px;
+    font-family: "Alegreya", serif;
+    font-size: 22px;
+    font-weight: 400px;
+    line-height: 30px;
+    color: rgb(48, 48, 48);
+
+}
+
+div.our-baking div.container div.bottom .slide p
+{
+    margin-block: 25px;
+    font-family: "Alegreya", serif;
+    font-size: 17px;
+    font-weight: 400px;
+    line-height: 32px;
+    color:rgb(104, 104, 104);
+
+}
+
+div.our-baking div.container div.bottom #slide2
+{
+    margin-inline: 3%;
+}
+
+/* Contact */
+
+div.contact
+{
+    background-color:rgb(248,248,248) ;
+}
+
+div.contact div.container
+{
+    padding-block: 90px;
+}
+
+div.contact div.container div.left-side h2
+{
+    font-family: "Alegreya", serif;
+    font-size: 32px;
+    font-weight: 400px;
+    line-height: 44px;
+    color:rgb(48, 48, 48);
+    margin-block: 25px;
+
+}
+div.contact div.container div.left-side
+{
+    width: 50%;
+    float:left ;
+}
+
+div.contact div.container div.right-side
+{
+    width: 45%;
+    margin-left:5%;
+    float:left ;
+}
+div.contact div.container div.left-side p
+{
+    margin-block: 25px;
+    font-family: "Alegreya", serif;
+    font-size: 17px;
+    font-weight: 400px;
+    line-height: 32px;
+    color:rgb(104, 104, 104)
+}
+div.contact div.container div.left-side img
+{
+    width: 36px;
+    height: 36px;
+    float: left;
+    background-color: rgb(143,120,84);
+    border-radius: 50%;
+}
+div.contact div.container div.left-side ul
+{
+    list-style: none;
+}
+
+div.contact div.container div.left-side li
+{
+    margin-top: 30px;
+}
+div.contact div.container div.left-side span
+{
+    float: left;
+    margin-left: 10px;
+    font-family: "Alegreya", serif;
+    font-size: 17px;
+    font-weight: 400px;
+    line-height: 32px;
+    color:rgb(104, 104, 104)
+}
+div.contact div.container div.right-side 
+{
+    margin-top: 90px;
+}
