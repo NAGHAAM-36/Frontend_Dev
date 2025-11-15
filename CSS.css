@@ -456,3 +456,149 @@ div.contact div.container div.right-side
 {
     margin-top: 90px;
 }
+
+
+
+
+/* Footer */
+
+div.footer
+{
+    height: 100vh;
+}
+
+div.footer div.background-top
+{
+    background-color:rgb(64,61,56) ;
+    height: 50vh;
+}
+
+div.footer div.background-bottom
+{
+    background-color: rgb(53,51,48);
+    height: 50vh;
+}
+
+div.footer div.background-bottom  img.facebook:hover
+{
+    background-color: rgba(0, 0, 255, 0.557);
+}
+div.footer div.background-bottom  img.google:hover
+{
+    background-color:rgb(222, 24, 24) ;
+}
+div.footer div.background-bottom  img.linkedin:hover
+{
+    background-color:lightblue ;
+}
+div.footer div.background-bottom  img.twitter:hover
+{
+    background-color: rgba(0, 0, 0, 0.292) ;
+}
+div.footer div.content-top
+{
+    width: 80%;
+    margin-inline: auto;
+}
+div.footer div.content-bottom
+{
+    width: 80%;
+    text-align: center;
+    margin-left: 130px;
+    padding-block: 80px;
+}
+div.footer div.content-bottom p
+{
+    color: white;
+    margin-block: 20px;
+}
+div.footer div.content-bottom img
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+div.footer div.content-bottom img#don
+{
+    width: auto;
+    height: auto;
+    border-radius: 0;
+}
+
+div.footer div.background-top div.content-top img
+{
+    width: 14px;
+    height: 16px;
+    float: left;
+}
+div.footer div.background-top div.content-top img.im
+{
+    width: 30px;
+    height: 30px;
+    float: left;
+}
+
+div.footer div.background-top div.content-top ul
+{
+    list-style: none;
+}
+
+div.footer div.background-top div.content-top span
+
+{
+    float: left;
+}
+
+div.footer div.background-top div.content-top div.about
+{
+    float: left;
+    width: 24%;
+    margin-right: 1%;
+}
+div.footer div.background-top div.content-top div.why-we-are-special
+{
+    float: left;
+    width: 24%;
+    margin-right: 1%;
+}
+div.footer div.background-top div.content-top div.opening-hours
+{
+    float: left;
+    width: 24%;
+    margin-right: 1%;
+}
+div.footer div.background-top div.content-top div.contact-details
+{
+    float: left;
+    width: 24%;
+    margin-right: 1%;
+}
+
+div.footer div.background-top div.content-top .about h4,.why-we-are-special h4,.opening-hours h4,.contact-details h4 
+{
+    font-family: "Alegreya", serif;
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 400;
+    color: white;
+    margin-top:25px ;
+    margin-bottom:15px ;
+}
+div.footer div.background-top div.content-top .about span,.why-we-are-special span,.opening-hours span,.contact-details span 
+{
+    font-family: "Alegreya Sans", sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 400;
+    color: rgb(150, 150, 150);
+}
+
+div.footer div.background-top div.content-top li
+{
+    margin-block: 15px;
+    border-bottom: .1px rgba(143, 120, 84, 0.067) solid;
+}
+div.footer div.background-top div.content-top li.noline
+{
+    border: none;
+}
